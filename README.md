@@ -1,7 +1,9 @@
 Bienvenido a  mi pagina  web 
 
-Brayan Calvopiña Pumadera
+Esta pagina fue desarrollada con fines academicos
 
-Ingeneria de Software 
+Carrera:::::
+Ingeneria de Software
 
+Materia::::
 Proceso de Software
